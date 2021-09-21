@@ -1,0 +1,40 @@
+
+ExplosionHit.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+explosion1
+  rotate: false
+  xy: 1, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+explosion2
+  rotate: false
+  xy: 130, 137
+  size: 114, 112
+  orig: 114, 112
+  offset: 0, 0
+  index: -1
+explosion3
+  rotate: false
+  xy: 1, 123
+  size: 127, 126
+  orig: 127, 126
+  offset: 0, 0
+  index: -1
+explosion4
+  rotate: false
+  xy: 354, 159
+  size: 92, 90
+  orig: 92, 90
+  offset: 0, 0
+  index: -1
+explosion5
+  rotate: false
+  xy: 246, 145
+  size: 106, 104
+  orig: 106, 104
+  offset: 0, 0
+  index: -1

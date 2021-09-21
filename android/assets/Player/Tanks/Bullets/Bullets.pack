@@ -1,0 +1,124 @@
+
+Bullets.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+5
+  rotate: false
+  xy: 1, 74
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1, 20
+  size: 16, 52
+  orig: 16, 52
+  offset: 0, 0
+  index: -1
+3 (2)
+  rotate: false
+  xy: 43, 92
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+3 (3)
+  rotate: false
+  xy: 69, 92
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+3 (4)
+  rotate: false
+  xy: 95, 92
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+3 (5)
+  rotate: false
+  xy: 19, 40
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 19, 6
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+2 (2)
+  rotate: false
+  xy: 45, 54
+  size: 16, 36
+  orig: 16, 36
+  offset: 0, 0
+  index: -1
+2 (4)
+  rotate: false
+  xy: 45, 16
+  size: 16, 36
+  orig: 16, 36
+  offset: 0, 0
+  index: -1
+2 (5)
+  rotate: false
+  xy: 63, 54
+  size: 16, 36
+  orig: 16, 36
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 63, 16
+  size: 16, 36
+  orig: 16, 36
+  offset: 0, 0
+  index: -1
+1 (2)
+  rotate: false
+  xy: 81, 62
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+1 (3)
+  rotate: false
+  xy: 81, 32
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+1 (4)
+  rotate: false
+  xy: 99, 62
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+1 (5)
+  rotate: false
+  xy: 99, 32
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 81, 2
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+2 (3)
+  rotate: false
+  xy: 99, 1
+  size: 13, 29
+  orig: 13, 29
+  offset: 0, 0
+  index: -1

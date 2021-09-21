@@ -1,0 +1,458 @@
+
+UI.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Bg
+  rotate: false
+  xy: 1, 960
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+CheckBoxChecked
+  rotate: false
+  xy: 1923, 1940
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CheckBoxUnChecked
+  rotate: false
+  xy: 1923, 1838
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Joystick
+  rotate: false
+  xy: 1923, 1736
+  size: 96, 100
+  orig: 96, 100
+  offset: 0, 0
+  index: -1
+ShootButton
+  rotate: false
+  xy: 1923, 1654
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+Card
+  rotate: false
+  xy: 1923, 1569
+  size: 64, 83
+  orig: 64, 83
+  offset: 0, 0
+  index: -1
+BluePlayerProfilePic
+  rotate: false
+  xy: 1923, 1507
+  size: 59, 60
+  orig: 59, 60
+  offset: 0, 0
+  index: -1
+OwningPlayerProfile
+  rotate: false
+  xy: 1923, 1507
+  size: 59, 60
+  orig: 59, 60
+  offset: 0, 0
+  index: -1
+GreenPlayerProfilePic
+  rotate: false
+  xy: 1923, 1445
+  size: 59, 60
+  orig: 59, 60
+  offset: 0, 0
+  index: -1
+BgSelected
+  rotate: false
+  xy: 1923, 1405
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+Arrow
+  rotate: false
+  xy: 1923, 1359
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+UIContainer
+  rotate: false
+  xy: 1923, 1302
+  size: 34, 55
+  orig: 34, 55
+  offset: 0, 0
+  index: -1
+VolumeBar
+  rotate: false
+  xy: 1923, 1274
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+VolumeBarContainer
+  rotate: false
+  xy: 1923, 1246
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+DarkBGContainer
+  rotate: false
+  xy: 1923, 1101
+  size: 9, 143
+  orig: 9, 143
+  offset: 0, 0
+  index: -1
+StatsContainer
+  rotate: false
+  xy: 1923, 1044
+  size: 9, 55
+  orig: 9, 55
+  offset: 0, 0
+  index: -1
+LevelBar
+  rotate: false
+  xy: 1923, 1016
+  size: 6, 26
+  orig: 6, 26
+  offset: 0, 0
+  index: -1
+LevelBarContainer
+  rotate: false
+  xy: 1923, 988
+  size: 6, 26
+  orig: 6, 26
+  offset: 0, 0
+  index: -1
+VolumeBarEdge
+  rotate: false
+  xy: 1923, 960
+  size: 5, 26
+  orig: 5, 26
+  offset: 0, 0
+  index: -1
+VolumeBarEdge2
+  rotate: false
+  xy: 1930, 966
+  size: 4, 20
+  orig: 4, 20
+  offset: 0, 0
+  index: -1
+MapBg
+  rotate: false
+  xy: 1, 238
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+Login
+  rotate: false
+  xy: 1283, 457
+  size: 682, 501
+  orig: 682, 501
+  offset: 0, 0
+  index: -1
+SmallFrame1
+  rotate: false
+  xy: 1283, 26
+  size: 479, 429
+  orig: 479, 429
+  offset: 0, 0
+  index: -1
+Trophie
+  rotate: false
+  xy: 1764, 168
+  size: 265, 287
+  orig: 265, 287
+  offset: 0, 0
+  index: -1
+JoystickBackGround
+  rotate: false
+  xy: 1764, 6
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+LargPlayerProfilePic
+  rotate: false
+  xy: 1, 22
+  size: 228, 214
+  orig: 228, 214
+  offset: 0, 0
+  index: -1
+Bought
+  rotate: false
+  xy: 231, 86
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+FeaturedItemsBackgroundLarge
+  rotate: false
+  xy: 383, 178
+  size: 798, 58
+  orig: 798, 58
+  offset: 0, 0
+  index: -1
+AddFriendIcon
+  rotate: false
+  xy: 383, 48
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Btn
+  rotate: false
+  xy: 231, 46
+  size: 127, 38
+  orig: 127, 38
+  offset: 0, 0
+  index: -1
+BellIcon
+  rotate: false
+  xy: 513, 48
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Close
+  rotate: false
+  xy: 643, 48
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Coins
+  rotate: false
+  xy: 773, 48
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+PlayerNameBackground
+  rotate: false
+  xy: 903, 118
+  size: 368, 58
+  orig: 368, 58
+  offset: 0, 0
+  index: -1
+GreenBtn
+  rotate: false
+  xy: 903, 13
+  size: 308, 103
+  orig: 308, 103
+  offset: 0, 0
+  index: -1
+HPBar
+  rotate: false
+  xy: 360, 1
+  size: 256, 45
+  orig: 256, 45
+  offset: 0, 0
+  index: -1
+BtnPressed
+  rotate: false
+  xy: 231, 6
+  size: 127, 38
+  orig: 127, 38
+  offset: 0, 0
+  index: -1
+HPBarIndicator
+  rotate: false
+  xy: 618, 1
+  size: 256, 45
+  orig: 256, 45
+  offset: 0, 0
+  index: -1
+
+UI2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+LargeFrame
+  rotate: false
+  xy: 1, 1680
+  size: 1479, 366
+  orig: 1479, 366
+  offset: 0, 0
+  index: -1
+StatsContainerLarge
+  rotate: false
+  xy: 1, 1226
+  size: 794, 452
+  orig: 794, 452
+  offset: 0, 0
+  index: -1
+MessageBox
+  rotate: false
+  xy: 1, 723
+  size: 682, 501
+  orig: 682, 501
+  offset: 0, 0
+  index: -1
+FeaturedItem1
+  rotate: false
+  xy: 797, 1277
+  size: 682, 401
+  orig: 682, 401
+  offset: 0, 0
+  index: -1
+FeaturedItem2
+  rotate: false
+  xy: 1, 320
+  size: 682, 401
+  orig: 682, 401
+  offset: 0, 0
+  index: -1
+SmallFrame2
+  rotate: false
+  xy: 1482, 1617
+  size: 479, 429
+  orig: 479, 429
+  offset: 0, 0
+  index: -1
+SmallFrame3
+  rotate: false
+  xy: 1481, 1186
+  size: 479, 429
+  orig: 479, 429
+  offset: 0, 0
+  index: -1
+SmallFeaturedItem1
+  rotate: false
+  xy: 1, 16
+  size: 334, 302
+  orig: 334, 302
+  offset: 0, 0
+  index: -1
+SmallFeaturedItem2
+  rotate: false
+  xy: 337, 16
+  size: 334, 302
+  orig: 334, 302
+  offset: 0, 0
+  index: -1
+FrameBlue
+  rotate: false
+  xy: 685, 917
+  size: 319, 307
+  orig: 319, 307
+  offset: 0, 0
+  index: -1
+FrameBrown
+  rotate: false
+  xy: 685, 608
+  size: 319, 307
+  orig: 319, 307
+  offset: 0, 0
+  index: -1
+FrameGreen
+  rotate: false
+  xy: 685, 299
+  size: 319, 307
+  orig: 319, 307
+  offset: 0, 0
+  index: -1
+SmallFeaturedItem3
+  rotate: false
+  xy: 1006, 973
+  size: 334, 302
+  orig: 334, 302
+  offset: 0, 0
+  index: -1
+SmallFeaturedItem4
+  rotate: false
+  xy: 1006, 669
+  size: 334, 302
+  orig: 334, 302
+  offset: 0, 0
+  index: -1
+FramePink
+  rotate: false
+  xy: 1006, 360
+  size: 319, 307
+  orig: 319, 307
+  offset: 0, 0
+  index: -1
+FriendsBg
+  rotate: false
+  xy: 673, 211
+  size: 348, 86
+  orig: 348, 86
+  offset: 0, 0
+  index: -1
+GreenBtnPressed
+  rotate: false
+  xy: 673, 106
+  size: 308, 103
+  orig: 308, 103
+  offset: 0, 0
+  index: -1
+PlayBtn
+  rotate: false
+  xy: 673, 1
+  size: 308, 103
+  orig: 308, 103
+  offset: 0, 0
+  index: -1
+PlayBtnPressed
+  rotate: false
+  xy: 1023, 255
+  size: 308, 103
+  orig: 308, 103
+  offset: 0, 0
+  index: -1
+SelectedTab
+  rotate: false
+  xy: 1023, 163
+  size: 321, 90
+  orig: 321, 90
+  offset: 0, 0
+  index: -1
+UnselectedTab
+  rotate: false
+  xy: 983, 71
+  size: 321, 90
+  orig: 321, 90
+  offset: 0, 0
+  index: -1
+Diamond
+  rotate: false
+  xy: 1342, 1147
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NotificationIcon
+  rotate: false
+  xy: 1342, 1017
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+OfflineIcon
+  rotate: false
+  xy: 1342, 887
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+OnlineIcon
+  rotate: false
+  xy: 1342, 757
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+StatsBg
+  rotate: false
+  xy: 797, 1237
+  size: 127, 38
+  orig: 127, 38
+  offset: 0, 0
+  index: -1
